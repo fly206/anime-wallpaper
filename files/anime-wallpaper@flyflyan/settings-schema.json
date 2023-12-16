@@ -8,7 +8,14 @@
         "default": "https://www.loliapi.com/acg/pc/",
         "description": "Wallpaper api resource",
         "options": {
-            "loliapi.com": "https://www.loliapi.com/acg/pc/"
+            "loliapi.com": "https://www.loliapi.com/acg/pc/",
+            "zichen.zone": "https://app.zichen.zone/api/acg.php",
+            "moe.jitsu.top":"https://moe.jitsu.top/img/?sort=pc",
+            "paugram.com": "https://api.paugram.com/wallpaper/",
+            "t.mwm.moe": "https://t.mwm.moe/pc",
+            "dmoe.cc": "https://www.dmoe.cc/random.php",
+            "api.vvhan.com": "https://api.vvhan.com/api/acgimg",
+            "paulzzh.com": "https://img.paulzzh.com/touhou/random"
         },
         "tooltip": "Select a wallpaper resource"
     },

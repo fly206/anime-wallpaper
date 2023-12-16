@@ -15,7 +15,7 @@ const SAVE_IMAGE_PATH = `${GLib.get_home_dir()}/Pictures/`;
 const SAVE_SCRIPT = `${APPLET_PATH}/savefile.sh`;
 const ANIME_URL = 'https://www.loliapi.com/acg/pc/';
 
-const logging = true;
+const logging = false;
 
 let _httpSession;
 if (Soup.MAJOR_VERSION == 2) {
